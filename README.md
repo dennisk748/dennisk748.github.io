@@ -1,58 +1,9 @@
-<link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
-      integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA=="
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    />
+# Bootstrap 5 Portfolio Template
 
-<div style="text-align: center; ">
-        <div>
-            <h1>Hi There, I'm <span style="color: green; ">Dennis Kamau</span> <span style='font-size:50px;'> &#128075</span></h1>
-            <h3>Upcoming Junior Software Developer &#128187; &#127911;</h3>
-        </div>
-        
-</div>
-<br>
+### TEMPLATE SCREENSHOT
 
-# My Portfolio <span style='font-size:30px;'>&#128104;</span> 
+### WEBSITE PREVIEW 
 
-This is my Portfolio Website where I showcase some of the projects I've been working on and also talk more about myself
+[BOOTSTRAP 5 TEMPLATE PREVIEW ](https://bootstrap-5-website.netlify.app/)
 
-<br>
-
-<!-- # The Design <span style='font-size:30px;'>&#128293;</span>
-<br>
-![alt text](images/StreetFood.png)
-<br> -->
-
-# Demo &#128273;
-
-Here is a live link to the project 
-
-
-https://dennisk748.github.io/portfolio/
-
-![alt text](images/screen.png)
-
-# Usage <span style='font-size:30px;'>🖋</span> 
-If you want to view the code or change some elements on the website, you are welcomed to clone the project
-
-``` git
-git clone git@github.com:TrekHub/myPortfolio.git
-```
-
-
-# Technology Used <span style='font-size:30px;'>&#128187;</span> 
-
-1. Html  <i class="fa-brands fa-html5"></i>
-
-2. CSS  <i class="fa-brands fa-css3"></i>
-
-
-# Author <span style='font-size:30px;'>&#128524;</span> 
-
-Teddy Omondi 
-
-# License  <span style='font-size:30px;'>🔐</span> 
-[MIT](https://choosealicense.com/licenses/mit/)
+![Fullscreenshot](https://user-images.githubusercontent.com/11283502/116909562-0c139000-ac4d-11eb-8ae0-26b6d790981e.jpg) 
